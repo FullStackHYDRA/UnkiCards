@@ -16,3 +16,8 @@ Lösche alle Fahrzeuge der Marke Toyota mit einem einzigen Befehl aus der Fahrze
 Lösche alle Fahrzeuge der Marke Volkswagen mit einem einzigen Befehl aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Volkswagen'"
 Lösche alle Fahrzeuge der Marke Ford mit einem einzigen Befehl aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Ford'"
 Lösche alle Fahrzeuge der Marke Porsche mit einem einzigen Befehl aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Porsche'"
+Suche die ID ("Fahrzeug_ID") des Fahrzeugs mit dem Typ "911" aus der Fahrzeug Tabelle | "SELECT Fahrzeug_ID FROM Fahrzeug WHERE Typ = '911'"
+Suche die ID ("Fahrzeug_ID") des Fahrzeugs mit dem Typ "California" aus der Fahrzeug Tabelle | "SELECT Fahrzeug_ID FROM Fahrzeug WHERE Typ = 'California'"
+Suche die ID ("Fahrzeug_ID") des Fahrzeugs mit dem Typ "Käfer" aus der Fahrzeug Tabelle | "SELECT Fahrzeug_ID FROM Fahrzeug WHERE Typ = 'Käfer'"
+Suche die ID ("Fahrzeug_ID") des Fahrzeugs mit dem Typ "Fiesta" aus der Fahrzeug Tabelle | "SELECT Fahrzeug_ID FROM Fahrzeug WHERE Typ = 'Fiesta'"
+Suche die ID ("Fahrzeug_ID") des Fahrzeugs mit dem Typ "Corolla" aus der Fahrzeug Tabelle | "SELECT Fahrzeug_ID FROM Fahrzeug WHERE Typ = 'Corolla'"
