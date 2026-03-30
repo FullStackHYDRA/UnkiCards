@@ -13,3 +13,6 @@ Füge Pirmin Zurbriggen der Mitarbeiter Tabelle ein. Reihenfolge Name, Vorname |
 Füge Petra Musterfrau und Hans Peterson der Mitarbeiter Tabelle hin zu. Reihenfolge Name, Vorname | "INSERT INTO Mitarbeiter (Nachname, Vorname) VALUES ('Musterfrau', 'Petra'), ('Peterson', 'Hans');"
 Füge Vorname Name der Mitarbeiter ein. Reihenfolge Name, Vorname | "INSERT INTO Mitarbeiter (Nachname, Vorname) VALUES ('Name', 'Vorname');"
 Lösche alle Fahrzeuge der Marke Toyota mit einem einzigen Befehl aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Toyota';"
+Lösche alle Fahrzeuge der Marke Volkswagen mit einem einzigen Befehl aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Volkswagen'"
+Lösche alle Fahrzeuge der Marke Ford mit einem einzigen Befehl aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Ford'"
+Lösche alle Fahrzeuge der Marke Porsche mit einem einzigen Befehl aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Porsche'"
