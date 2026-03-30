@@ -26,3 +26,7 @@ Lösche alle Fahrzeuge der Marke Porsche aus der Fahrzeug Tabelle | "DELETE FROM
 Lösche alle Fahrzeuge der Marke Toyota aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Toyota'"
 Lösche alle Fahrzeuge der Marke Ford aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Ford'"
 Lösche alle Fahrzeuge der Marke Opel aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Opel'"
+Aktualisiere die Marke aller Fahrzeuge mit dem Typ "911" zu Porsche | "UPDATE Fahrzeug SET Marke = 'Porsche' WHERE Typ = '911'"
+Aktualisiere die Marke aller Fahrzeuge mit dem Typ "Käfer" zu Volkswagen | "UPDATE Fahrzeug SET Marke = 'Volkswagen' WHERE Typ = 'Käfer'"
+Aktualisiere die Marke aller Fahrzeuge mit dem Typ "Golf" zu Volkswagen | "UPDATE Fahrzeug SET Marke = 'Volkswagen' WHERE Typ = 'Golf'"
+Aktualisiere die Marke aller Fahrzeuge mit dem Typ "Fiesta" zu Ford | "UPDATE Fahrzeug SET Marke = 'Ford' WHERE Typ = 'Ford'"
