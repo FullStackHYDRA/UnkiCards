@@ -21,3 +21,8 @@ Suche die ID ("Fahrzeug_ID") des Fahrzeugs mit dem Typ "California" aus der Fahr
 Suche die ID ("Fahrzeug_ID") des Fahrzeugs mit dem Typ "Käfer" aus der Fahrzeug Tabelle | "SELECT Fahrzeug_ID FROM Fahrzeug WHERE Typ = 'Käfer'"
 Suche die ID ("Fahrzeug_ID") des Fahrzeugs mit dem Typ "Fiesta" aus der Fahrzeug Tabelle | "SELECT Fahrzeug_ID FROM Fahrzeug WHERE Typ = 'Fiesta'"
 Suche die ID ("Fahrzeug_ID") des Fahrzeugs mit dem Typ "Corolla" aus der Fahrzeug Tabelle | "SELECT Fahrzeug_ID FROM Fahrzeug WHERE Typ = 'Corolla'"
+Lösche alle Fahrzeuge der Marke Volkswagen aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Volkswagen'"
+Lösche alle Fahrzeuge der Marke Porsche aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Porsche'"
+Lösche alle Fahrzeuge der Marke Toyota aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Toyota'"
+Lösche alle Fahrzeuge der Marke Ford aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Ford'"
+Lösche alle Fahrzeuge der Marke Opel aus der Fahrzeug Tabelle | "DELETE FROM Fahrzeug WHERE Marke = 'Opel'"
