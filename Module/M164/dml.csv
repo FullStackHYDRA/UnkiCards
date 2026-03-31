@@ -29,4 +29,4 @@ Lösche alle Fahrzeuge der Marke Opel aus der Fahrzeug Tabelle | "DELETE FROM Fa
 Aktualisiere die Marke aller Fahrzeuge mit dem Typ "911" zu Porsche | "UPDATE Fahrzeug SET Marke = 'Porsche' WHERE Typ = '911';"
 Aktualisiere die Marke aller Fahrzeuge mit dem Typ "Käfer" zu Volkswagen | "UPDATE Fahrzeug SET Marke = 'Volkswagen' WHERE Typ = 'Käfer';"
 Aktualisiere die Marke aller Fahrzeuge mit dem Typ "Golf" zu Volkswagen | "UPDATE Fahrzeug SET Marke = 'Volkswagen' WHERE Typ = 'Golf';"
-Aktualisiere die Marke aller Fahrzeuge mit dem Typ "Fiesta" zu Ford | "UPDATE Fahrzeug SET Marke = 'Ford' WHERE Typ = 'Ford';"
+Aktualisiere die Marke aller Fahrzeuge mit dem Typ "Fiesta" zu Ford | "UPDATE Fahrzeug SET Marke = 'Ford' WHERE Typ = 'Fiesta';"
