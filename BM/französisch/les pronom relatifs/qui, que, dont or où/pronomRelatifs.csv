@@ -1,49 +1,48 @@
-La femme {{c1::qui}} vient à la maison est gentille.            ; Die Frau, die nach Hause kommt, ist nett
-L'homme {{c1::qui}} vient à la maison travaille beaucoup.       ; Der Mann, der nach Hause kommt, arbeitet viel.
-Les enfants {{c1::qui}} viennent à la maison veulent manger.    ; Die Kinder, die nach Hause kommen, wollen essen.
-Les enfants {{c1::qui}} me voient sont gentils.                 ; Die Kinder, die mich sehen, sind nett.
-La ville {{c1::qui}} a beaucoup d'arbres s'appelle Winterthur.  ; Die Stadt, die viele Bäume hat, heisst Winterthur.
-C'est M. Malin {{c1::qui}} est le chef d'une grande entreprise.; Herr Malin ist der Chef eines grossen Unternehmens.
-Le prof {{c1::qui}} travaille à côté est anglais?; a
-Les amis {{c1::que}} vous attendez sont italiens ?; b
-Le tableau {{c1::qui}} est sur le mur est de Manet ?; c
-La voiture {{c1::qui}} est garée dehors est à vous ?; d
-Le livre {{c1::que}} vous lisez est intéressant ?; e
-Comment s'appelle la pièce {{c1::où}} on dort ?; f
-Comment s'appelle la personne {{c1::qui}} nous soigne ?; g
-Comment s'appelle la saison {{c1::où}} il fait le plus chaud ?; h
-Comment s'appelle la langue {{c1::que}} vous étudiez ?; j
-Comment s'appelle le livre {{c1::qui}} est devant vous ?; l
-Prenez le livre {{c1::qui}} est sur la table.; m
-C'est un acteur {{c1::qui}} est intéressant.; n 
-C'est le mois {{c1::où}} je fais des crêpes.;o 
-L'homme {{c1::dont}} je suis amoureuse est à gauche.;p
-Je suis parti le jour {{c1::où}} vous êtes arrivé.; q
-Je déteste les hommes {{c1::qui}} mettent trop de parfum.; r 
-Quelle est l'île {{c1::où}} Christophe Colombe a débarqué ?; s
-Comment s'appelle le livre de grammaire {{c1::dont}} tu as besoin ?;t
-C'est une amie {{c1::que}} je connais depuis l'école maternelle.; u
-Tu as regardé le DVD {{c1::que}} je t'ai prêté ?;v 
-Nous avons visité une exposition {{c1::qui}} est vraiment exceptionnelle.;w
-C'est un homme {{c1::qui}} a beaucoup d'humour.;x
-Nous avons des voisins {{c1::qui}} sont très discrets.;y
-C'est la femme {{c1::à qui}} j'ai téléphoné hier soir.;z
-C'est un objet {{c1::dont}} on se sert pour déboucher les bouteilles. *(Solution: le tire-bouchon)*;0
-C'est l'ingénieur {{c1::qui}} a construit la tour la plus célèbre de Paris. *(Solution: Gustave Eiffel)*;1
-C'est un plat {{c1::qui}} vient du Maroc. *(Solution: le couscous)*;2
-C'est un roman {{c1::dont}} Victor Hugo est l'auteur. *(Solution: Les Misérables)*;3
-C'est un vélo {{c1::qui}} peut rouler partout. *(Solution: le VTT)*;4
-C'est un mot {{c1::qui}} signifie que l'on aime la France et les Français. *(Solution: francophile)*;5
-C'est le pays {{c1::dont}} Varsovie est la capitale. *(Solution: la Pologne)*;6
-C'est un magasin {{c1::où}} on peut acheter des gâteaux. *(Solution: la pâtisserie)*;7
-C'est une danse à trois temps {{c1::qu'}}on danse à deux. *(Solution: la valse)*;8
-C'est l'année {{c1::où}} on a introduit l'euro. *(Solution: 2001)*;9
-Je n'aime pas les gens {{c1::qui}} mangent du chewing-gum.;10
-Je n'ai pas reçu le SMS {{c1::que}} tu m'as envoyé hier.;11
-C'est un train {{c1::qui}} est très confortable.;12
-Le mois {{c1::où}} il a fait très chaud était insupportable.;13
-Le train {{c1::que}} je voulais prendre est annulé.;14
-Le film {{c1::dont}} tu parles ne m'interesse pas.;15
-Il ne sait pas toujours ce {{c1::qu'}}il veut.;16
-J'aime beaucoup la ville {{c1::où}} j'habite.;17
-Le smartphone {{c1::qui}} sonne, c'est le mien.;18
+La femme {{c1::qui}} vient à la maison est gentille.                                                    ; Die Frau, die nach Hause kommt, ist nett
+L'homme {{c1::qui}} vient à la maison travaille beaucoup.                                               ; Der Mann, der nach Hause kommt, arbeitet viel.
+Les enfants {{c1::qui}} viennent à la maison veulent manger.                                            ; Die Kinder, die nach Hause kommen, wollen essen.
+Les enfants {{c1::qui}} me voient sont gentils.                                                         ; Die Kinder, die mich sehen, sind nett.
+La ville {{c1::qui}} a beaucoup d'arbres s'appelle Winterthur.                                          ; Die Stadt, die viele Bäume hat, heisst Winterthur.
+C'est M. Malin {{c1::qui}} est le chef d'une grande entreprise.                                         ; Herr Malin ist der Chef eines grossen Unternehmens.
+Le prof {{c1::qui}} travaille à côté est anglais?                                                       ; Der Lehrer, der nebenan arbeitet, ist Engländer?
+Les amis {{c1::que}} vous attendez sont italiens ?                                                      ; Die Freunde, auf die Sie warten, sind Italiener?
+Le tableau {{c1::qui}} est sur le mur est de Manet ?                                                    ; Ist das Gemälde an der Wand von Manet?
+La voiture {{c1::qui}} est garée dehors est à vous ?                                                    ; Gehört das Auto, das draussen steht, Ihnen?
+Le livre {{c1::que}} vous lisez est intéressant ?                                                       ; Ist das Buch, das du liest, interessant?
+Comment s'appelle la pièce {{c1::où}} on dort ?                                                         ; Wie heisst das Zimmer, in dem wir schlafen?
+Comment s'appelle la personne {{c1::qui}} nous soigne ?                                                 ; Wie heisst die Person, die uns behandelt?
+Comment s'appelle la saison {{c1::où}} il fait le plus chaud ?                                          ; Wie heisst die Jahreszeit, in der es am heissesten ist?
+Comment s'appelle la langue {{c1::que}} vous étudiez ?                                                  ; Wie heisst die Sprache, die du studierst?
+Comment s'appelle le livre {{c1::qui}} est devant vous ?                                                ; Wie heisst das Buch, das vor Ihnen steht?
+Prenez le livre {{c1::qui}} est sur la table.                                                           ; Nehmen Sie das Buch, das auf dem Tisch liegt.
+C'est un acteur {{c1::qui}} est intéressant.                                                            ; Er ist ein interessanter Schauspieler.
+C'est le mois {{c1::où}} je fais des crêpes.                                                            ; Es ist der Monat, in dem ich Pfannkuchen mache.
+L'homme {{c1::dont}} je suis amoureuse est à gauche.                                                    ; Der Mann, in den ich verliebt bin, ist links.
+Je suis parti le jour {{c1::où}} vous êtes arrivé.                                                      ; Ich bin an dem Tag gegangen, als Sie angekommen sind.
+Je déteste les hommes {{c1::qui}} mettent trop de parfum.                                               ; Ich hasse Männer, die zu viel Parfüm tragen.
+Quelle est l'île {{c1::où}} Christophe Colombe a débarqué ?                                             ; Wo ist die Insel, auf der Christoph Kolumbus landete?
+Comment s'appelle le livre de grammaire {{c1::dont}} tu as besoin ?                                     ; Wie heisst das Grammatikbuch, das du brauchst?
+C'est une amie {{c1::que}} je connais depuis l'école maternelle.                                        ; Sie ist eine Freundin, die ich seit dem Kindergarten kenne.
+Tu as regardé le DVD {{c1::que}} je t'ai prêté ?                                                        ; Hast du die DVD angeschaut, die ich dir geliehen habe?
+Nous avons visité une exposition {{c1::qui}} est vraiment exceptionnelle.                               ; Wir haben eine Ausstellung besucht, die wirklich aussergewöhnlich ist.
+C'est un homme {{c1::qui}} a beaucoup d'humour.                                                         ; Er ist ein Mann mit viel Humor.
+Nous avons des voisins {{c1::qui}} sont très discrets.                                                  ; Wir haben Nachbarn, die sehr diskret sind.
+C'est un objet {{c1::dont}} on se sert pour déboucher les bouteilles. *(Solution: le tire-bouchon)*     ; Es ist ein Gegenstand, den man zum Öffnen der Flaschen verwendet. (Lösung: der Korkenzieher)
+C'est l'ingénieur {{c1::qui}} a construit la tour la plus célèbre de Paris. *(Solution: Gustave Eiffel)*; Es ist der Ingenieur, der den berühmtesten Turm von Paris gebaut hat. (Lösung: Gustave Eiffel)
+C'est un plat {{c1::qui}} vient du Maroc. *(Solution: le couscous)*                                     ; Es ist ein Gericht, das aus Marokko kommt. (Lösung: der Couscous)
+C'est un roman {{c1::dont}} Victor Hugo est l'auteur. *(Solution: Les Misérables)*                      ; Es ist ein Roman, dessen Autor Victor Hugo ist. (Lösung: Les Misérables)
+C'est un vélo {{c1::qui}} peut rouler partout. *(Solution: le VTT)*                                     ; Es ist ein Fahrrad, das überall fahren kann. (Lösung: das Mountainbike)
+C'est un mot {{c1::qui}} signifie que l'on aime la France et les Français. *(Solution: francophile)*    ; Es ist ein Wort, das bedeutet, dass man Frankreich und die Franzosen liebt. (Lösung: francophile)
+C'est le pays {{c1::dont}} Varsovie est la capitale. *(Solution: la Pologne)*                           ; Das ist das Land, dessen Hauptstadt Warschau ist. (Lösung: Polen)
+C'est un magasin {{c1::où}} on peut acheter des gâteaux. *(Solution: la pâtisserie)*                    ; Es ist ein Laden, in dem man Kuchen kaufen kann. (Lösung: die Konditorei)
+C'est une danse à trois temps {{c1::qu'}}on danse à deux. *(Solution: la valse)*                        ; Es ist ein dreistufiger Tanz, den wir zu zweit tanzen. (Lösung: der Walzer)
+C'est l'année {{c1::où}} on a introduit l'euro. *(Solution: 2001)*                                      ; Das ist das Jahr, in dem der Euro eingeführt wurde. (Lösung: 2001)
+Je n'aime pas les gens {{c1::qui}} mangent du chewing-gum.                                              ; Ich mag keine Leute, die Kaugummi essen.
+Je n'ai pas reçu le SMS {{c1::que}} tu m'as envoyé hier.                                                ; Ich habe die SMS, die du mir gestern geschickt hast, nicht erhalten.
+C'est un train {{c1::qui}} est très confortable.                                                        ; Es ist ein Zug, der sehr bequem ist.
+Le mois {{c1::où}} il a fait très chaud était insupportable.                                            ; Der Monat, in dem es sehr heiss war, war unerträglich.
+Le train {{c1::que}} je voulais prendre est annulé.                                                     ; Der Zug, den ich nehmen wollte, ist abgesagt.
+Le film {{c1::dont}} tu parles ne m'interesse pas.                                                      ; Der Film, von dem du sprichst, interessiert mich nicht.
+Il ne sait pas toujours ce {{c1::qu'}}il veut.                                                          ; Er weiss nicht immer, was er will.
+J'aime beaucoup la ville {{c1::où}} j'habite.                                                           ; Ich mag die Stadt, in der ich lebe, sehr.
+Le smartphone {{c1::qui}} sonne, c'est le mien.                                                         ; Das klingelnde Smartphone ist meins.
